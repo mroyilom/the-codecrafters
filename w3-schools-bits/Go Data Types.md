@@ -1,3 +1,18 @@
+Go Data Types tell the computer what kind of data you are using.
+Main simple types:
+
+int → whole numbers (like 5, 100, -3)
+float64 → numbers with decimal (like 3.14, 25.75)
+string → text (like "Otukpo", "Hello")
+bool → true or false only
+
+Example:
+Govar age int = 25
+var height float64 = 1.75
+var name string = "John"
+var isStudent bool = true
+
+
 Go Data Types
 Data type is an important concept in programming. Data type specifies the size and type of variable values.
 
